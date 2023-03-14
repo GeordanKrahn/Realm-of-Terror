@@ -2,6 +2,11 @@
 - Doom Mod Still in alpha.
 - Only the first episode is in development at the moment
 
+## Contents
+1. [Information](#information)
+2. [Overview](#overview)
+3. [Features](#features)
+
 ## Information
 - This mod started as a vanilla style mod, however it has become a transformative project which will feature up to 3 episodes. 
 - Maps in the UDMF format.
@@ -14,3 +19,5 @@
 
 ## Overview
 Realm of Terror is about a spacial anomoly where Deimos is still intact, and the demons have been regrouping and planning yet another suprise attack. Luckily you, The Marine, find yourself on a collision course with this space time anomoly, and discover the plot before its too late. But can you thwart the demons this time?
+
+## Features

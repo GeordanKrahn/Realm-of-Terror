@@ -6,13 +6,13 @@
 1. [Information](#information)
 2. [Overview](#overview)
 3. [Features](#features)
-    a.  [Compatibility](#compatibility)
-    b.  [Difficulty](#difficulty)
-    c.  [New Items](#new-items)
-    d.  [New Enemies](#new-enemies)
-    e.  [New Weapons & Textures](#new-weapons--textures)
-    f.  [Unique Environments & Puzzles](#unique-environments--puzzles)
-    g.  [GZDoom Features](#gzdoom-features)
+-    a.  [Compatibility](#compatibility)
+-    b.  [Difficulty](#difficulty)
+-    c.  [New Items](#new-items)
+-    d.  [New Enemies](#new-enemies)
+-    e.  [New Weapons & Textures](#new-weapons--textures)
+-    f.  [Unique Environments & Puzzles](#unique-environments--puzzles)
+-    g.  [GZDoom Features](#gzdoom-features)
 
 ## Information
 - This mod started as a vanilla style mod, however it has become a transformative project which will feature up to 3 episodes. 

@@ -16,7 +16,7 @@
 
 ## Information
 - This mod started as a vanilla style mod, however it has become a transformative project which will feature up to 3 episodes. 
-- Maps in the UDMF format.
+- Maps in the [UDMF](https://zdoom.org/wiki/Universal_Doom_Map_Format) format.
 - Using the OTEX texture pack from [Here](https://www.doomworld.com/forum/topic/103426-otex-texture-set-%E2%80%93-update-2020-version-11-released/)
 - Also using MANY assets from [Realm667](https://www.realm667.com/)
 - Requires Doom, Doom 2, Plutonia or TNT WAD's to run.
